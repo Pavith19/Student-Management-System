@@ -38,7 +38,6 @@ CREATE TABLE students (
 ## Getting Started
 
 **1- Clone the repository:**
-
 ```
 git clone https://github.com/yourusername/student-management-system.git
 cd student-management-system
@@ -46,12 +45,13 @@ cd student-management-system
 **2- Configure the database connection:**
 
 - Open the StudentManagementSystem.java file.
-- Update the URL, USER, and PASSWORD variables with your MySQL database connection details:
+- Update the URL, USER and PASSWORD variables with your MySQL database connection details:
   
 ```java
 private static final String URL = "jdbc:mysql://localhost:3306/student_management";
 private static final String USER = "root";
 private static final String PASSWORD = "YourPassword";
 ```
+**3- Add MySQL Connector/J to the project:**
 
 
