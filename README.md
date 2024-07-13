@@ -33,3 +33,14 @@ CREATE TABLE students (
     birthday DATE,
     email VARCHAR(100)
 );
+```
+
+Getting Started
+
+Clone the repository:
+
+git clone https://github.com/yourusername/student-management-system.git
+cd student-management-system
+
+
+
