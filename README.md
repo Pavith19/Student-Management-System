@@ -67,9 +67,25 @@ java StudentManagementSystem
 ## Input Validations and Error Handling
 
 - **Student ID**:
-- Must be a numeric value.
-- The system checks for duplicate IDs to ensure each student has a unique ID.
-- Error message: "Please enter a valid numeric student ID.
+  - Must be a numeric value.
+  - The system checks for duplicate IDs to ensure each student has a unique ID.
+  - Error message: "Please enter a valid numeric student ID."
+
+- **Name**:
+  - Must contain only letters and spaces.
+  - Error message: "Invalid name. Name can only contain letters and spaces."
+
+- **Birthday**:
+  - Must be in the format YYYY-MM-DD.
+  - Error message: "Invalid date format. Please enter the birthday in YYYY-MM-DD format."
+
+- **Email**:
+  - Must contain '@' and '.' to be considered valid.
+  - Error message: "Invalid email. Please enter a valid email address."
+
+- **General Error Handling**:
+  - SQL exceptions are caught and displayed to the user with relevant messages.
+  - Input mismatch exceptions are handled to prompt the user for correct input types.
 
 
 
