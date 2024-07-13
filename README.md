@@ -96,6 +96,6 @@ Upon running the application (`StudentManagementSystem.java`), a menu will displ
 If you have any questions or suggestions, feel free to contact me at pavithd2020@gmail.com
 
 ## 🛠 Skills
-MySQL,Java Programming & OOP
+MySQL, Java Programming & OOP
 
 
