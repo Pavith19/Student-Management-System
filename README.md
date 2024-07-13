@@ -67,5 +67,10 @@ java StudentManagementSystem
 ## Input Validations and Error Handling
 
 - **Student ID**:
+- Must be a numeric value.
+- The system checks for duplicate IDs to ensure each student has a unique ID.
+- Error message: "Please enter a valid numeric student ID.
+
+
 
 
