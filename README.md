@@ -54,4 +54,13 @@ private static final String PASSWORD = "YourPassword";
 ```
 **3- Add MySQL Connector/J to the project:**
 
+-Download the MySQL Connector/J from the official MySQL website.
+-Add the JAR file to your project's build path.
+
+**4- Add MySQL Connector/J to the project:**
+```sh
+javac StudentManagementSystem.java Student.java
+java StudentManagementSystem
+```
+
 
