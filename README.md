@@ -37,8 +37,9 @@ CREATE TABLE students (
 
 Getting Started
 
-Clone the repository:
+1- Clone the repository:
 
+```
 git clone https://github.com/yourusername/student-management-system.git
 cd student-management-system
 
