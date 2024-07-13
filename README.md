@@ -64,6 +64,10 @@ javac StudentManagementSystem.java Student.java
 java StudentManagementSystem
 ```
 
+## Usage
+
+Upon running the application (`StudentManagementSystem.java`), a menu will display with options to add, list, search, update, or delete student records. You can add a new student by entering their details, list all existing students, search for a student by name, update their information, delete a student by ID, or exit the application. Follow the on-screen prompts for each operation.
+
 ## Input Validations and Error Handling
 
 - **Student ID**:
@@ -87,6 +91,8 @@ java StudentManagementSystem
   - SQL exceptions are caught and displayed to the user with relevant messages.
   - Input mismatch exceptions are handled to prompt the user for correct input types.
 
+## Contact
 
+If you have any questions or suggestions, feel free to contact me at pavithd2020@gmail.com
 
 
