@@ -35,7 +35,7 @@ CREATE TABLE students (
 );
 ```
 
-Getting Started
+## Getting Started
 
 1- Clone the repository:
 
@@ -45,7 +45,7 @@ cd student-management-system
 ```
 2- Configure the database connection:
 
--Open the StudentManagementSystem.java file.
-Update the URL, USER, and PASSWORD variables with your MySQL database connection details:
+- **Open the StudentManagementSystem.java file.**
+- **Update the URL, USER, and PASSWORD variables with your MySQL database connection details:**
 
 
