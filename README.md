@@ -7,8 +7,9 @@ This Java-based Student Management System allows you to manage student records w
 - **Add Student**: Add new students to the system with details like student ID, name, birthday, and email.
 - **List Students**: Display a list of all students in the system.
 - **Search Student**: Search for a student by name.
-- **Update Student**: Update details of an existing student.
-- **Delete Student**: Remove a student from the system.
+- **Update Student**: Update details of an existing student by entering their student ID.
+- **Delete Student**: Remove a student from the system by entering their student ID.
+- **Exit**: Terminate the application.
 
 ## Prerequisites
 
@@ -62,5 +63,9 @@ private static final String PASSWORD = "YourPassword";
 javac StudentManagementSystem.java Student.java
 java StudentManagementSystem
 ```
+
+## Input Validations and Error Handling
+
+- **Student ID**:
 
 
