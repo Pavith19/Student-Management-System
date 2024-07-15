@@ -1,3 +1,7 @@
+![GitHub top language](https://img.shields.io/github/languages/top/Pavith19/Student-Management-System?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/Pavith19/Student-Management-System?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/Pavith19/Student-Management-System.svg?cache=remove)
+
 # Student Management System
 
 This Java-based Student Management System allows you to manage student records with functionalities to add, list, search, update, and delete student details. The system interacts with a MySQL database to store and retrieve student information.
